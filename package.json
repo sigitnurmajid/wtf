@@ -7,10 +7,12 @@
     "serve": "vite preview"
   },
   "devDependencies": {
-    "vite": "^2.4.4"
+    "vite": "^2.5.10"
   },
   "dependencies": {
+    "@vitejs/plugin-vue": "^2.0.1",
     "dat.gui": "^0.7.7",
-    "three": "^0.131.3"
+    "three": "^0.131.3",
+    "vue": "^3.2.25"
   }
 }
